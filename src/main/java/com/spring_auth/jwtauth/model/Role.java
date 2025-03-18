@@ -1,0 +1,6 @@
+package com.spring_auth.jwtauth.model;
+
+public enum Role {
+    ROLE_USER,
+    ROLE_ADMIN
+} 
